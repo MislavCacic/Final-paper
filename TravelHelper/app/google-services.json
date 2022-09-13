@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855930251826",
+    "firebase_url": "https://travel-helper-6db57-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "travel-helper-6db57",
+    "storage_bucket": "travel-helper-6db57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855930251826:android:55f604b0cb7294ed6f6a2b",
+        "android_client_info": {
+          "package_name": "com.example.travelhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855930251826-49m5sg251mc2u4155paq8tsefd193ifv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQz4R0q8L4UBBf_W8xoM_QcWlk3VPbmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855930251826-49m5sg251mc2u4155paq8tsefd193ifv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

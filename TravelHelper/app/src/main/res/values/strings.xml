@@ -1,0 +1,65 @@
+<resources>
+
+    <!--ALL AROUND-->
+    <string name="app_name">Travel Helper</string>
+
+    <string name="usersEmail">E-mail</string>
+    <string name="usersPassword">Password</string>
+
+    <string name="loginButton">Login</string>
+    <string name="registerButton">Register now</string>
+    <string name="logoutButton">Logout</string>
+
+    <string name="usersUsername">Username</string>
+
+    <string name="usersProfile">Profile</string>
+    <string name="creatorsContact">Contact</string>
+    <string name="addSights">Add sights</string>
+    <string name="buildRoute">Build your own route</string>
+
+    <string name="allSights">All</string>
+    <string name="gothicSights">Gothic</string>
+    <string name="baroqueSights">Baroque</string>
+    <string name="secessionSights">Secession</string>
+    <string name="modernSights">Modern</string>
+
+    <string name="list">List</string>
+    <string name="map">Map</string>
+
+    <!--HOME FRAGMENT-->
+    <string name="noAccount">Don\'t have an account yet?\n Register here.</string>
+
+    <!--CONTACT FRAGMENT-->
+    <string name="contactEmail">Email: mcacic99@gmail.com</string>
+    <string name="contactInstagram">Instagram: mislavcacic</string>
+    <string name="contactLinkedin">LinkedIn: Mislav Čačić</string>
+    <string name="contactFacebook">Facebook: Mislav Čačić</string>
+
+    <!--MAPS ACTIVITY-->
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!--RECYCLER VIEW ROW-->
+    <string name="sightDescription">Sight Description</string>
+
+    <!--LIST OF SIGHTS LAYOUT-->
+    <string name="listOfSights">Sights</string>
+
+    <!--ADD SIGHTS-->
+    <string name="upload">Upload</string>
+    <string name="choose">Choose picture</string>
+    <string name="sightNameHint">Enter name</string>
+    <string name="sightDescriptionHint">Enter description</string>
+    <string name="sightAddressHint">Enter address</string>
+    <string name="no_sights_for_this_architecture">No sights for this architecture</string>
+    <string name="create_route">Create route</string>
+
+    <string-array name="Architectures">
+        <item>Gothic</item>
+        <item>Baroque</item>
+        <item>Secession</item>
+        <item>Modern</item>
+    </string-array>
+    <string name="title_activity_display_route">DisplayRouteActivity</string>
+    <string name="register">Register</string>
+
+</resources>
